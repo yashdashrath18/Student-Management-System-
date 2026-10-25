@@ -245,7 +245,7 @@ Through this project, I practiced:
 
 ## 👨‍💻 Author
 
-**Ayush Khude**
+**Yash Dashrath**
 
 Engineering Student | C++ | DSA | OOP | Programming
 
